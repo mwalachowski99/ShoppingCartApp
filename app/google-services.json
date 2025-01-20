@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87358382865",
+    "project_id": "shoppingchartapp",
+    "storage_bucket": "shoppingchartapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87358382865:android:3902e4aa465f28e03022b0",
+        "android_client_info": {
+          "package_name": "com.example.shoppingchartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87358382865-l55tehtiiajeabf0qvvk8sr5nj400b4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjM-5p7z3r2Z34JFQQZoPVK_piPEjtgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87358382865-l55tehtiiajeabf0qvvk8sr5nj400b4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
